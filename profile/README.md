@@ -1,5 +1,3 @@
----
-
 # Council on Ionizing Radiation Measurements and Standards
 
 Council for Ionizing Radiation Measurements and Standards \
