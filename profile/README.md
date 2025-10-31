@@ -1,12 +1,15 @@
-# The Council on Ionizing Radiation Measurements and Standards
+---
+
+# Council on Ionizing Radiation Measurements and Standards
 
 Council for Ionizing Radiation Measurements and Standards \
 12345 Parklawn Dr, Suite 200 \
 Rockville, MD 20852
 
-https://cirms.org/
-
+https://cirms.org/ \
 [cirms@cirms.org](mailto:cirms@cirms.org)
+
+---
 
 The Council on Ionizing Radiation Measurements and Standards (CIRMS) is an independent, non-profit entity that unites key stakeholders from industry, academia, and government sectors engaged in all aspects of ionizing radiation measurement. We are dedicated to provide strategic leadership and drive focused action on critical developments and emerging needs within the field.
 
