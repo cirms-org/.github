@@ -16,6 +16,7 @@ CIRMS publishes the _Needs Report,_ which delineates the pressing requirements i
 ## Public repositories
 
 - [Needs Report](https://github.com/cirms-org/needs-report)
+- [Scientific Exchange](https://github.com/cirms-org/scientific-exchange)
 
 ## Private repositories
 
