@@ -21,7 +21,7 @@ CIRMS publishes the _Needs Report,_ which delineates the pressing requirements i
 ## Annual meetings
 
 - [2026](https://cirms-org.github.io/2026/)
-- [2027](https://cirms-org.github.io/2026/)
+- [2027](https://cirms-org.github.io/2027/)
 
 ## Private repositories
 
